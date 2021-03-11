@@ -1,6 +1,6 @@
 @echo off
 
-set name="nescontrollerdemo"
+set name="iodemo"
 
 set path=%path%;..\bin\
 
